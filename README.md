@@ -1,4 +1,6 @@
 # Implementation-of-Erosion-and-Dilation
+# Name: V DIVYASHREE
+# Register Number: 212223230051
 ## Aim:
 To implement Erosion and Dilation using Python and OpenCV.
 ## Software Required:
